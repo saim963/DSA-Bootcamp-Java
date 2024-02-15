@@ -9,7 +9,7 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  Solved
 - [Majority Element](https://leetcode.com/problems/majority-element/)  Solved
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  Solved
 - [Missing Number](https://leetcode.com/problems/missing-number/)  Solved

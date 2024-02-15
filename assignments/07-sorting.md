@@ -10,9 +10,9 @@
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Majority Element](https://leetcode.com/problems/majority-element/)  Solved
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  Solved
+- [Missing Number](https://leetcode.com/problems/missing-number/)  Solved
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
